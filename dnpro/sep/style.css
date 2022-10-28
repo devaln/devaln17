@@ -1,0 +1,25 @@
+    body{
+    background-image: url('https://pixy.org/src/5/thumbs350/54116.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+    ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    }
+    li a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    }
+    li form {
+    float: right;
+    color: white;
+    padding: 12px 16px;
+    }
